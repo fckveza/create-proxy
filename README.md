@@ -30,6 +30,6 @@ $ chmod +x vhproxy
 $ ./vhproxy APIKEY
 ```
 
-### PORT - YOUR_IP:1313
+### PORT : 1313
 
 ![VHtear API's](https://i.ibb.co/85Lnwd1/819cafd58bb0.jpg)
