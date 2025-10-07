@@ -89,5 +89,4 @@ curl -x socks5h://celengspeed:celengspeed@IP_VPS:1080 https://api.ipify.org
 
 ---
 
-### ❤️ Dibuat oleh [VEZA](https://github.com/fckveza)
-Jika panduan ini membantu, jangan lupa beri ⭐ di repo ini!
+### ❤️ P [VEZA](https://github.com/fckveza)
